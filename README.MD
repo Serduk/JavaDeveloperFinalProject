@@ -1,5 +1,7 @@
 * http://dobavkam.net/products/
 
+* https://www.wolframalpha.com/input/?i=steak
+
 * URL Encoder/Decoder: https://www.url-encode-decode.com/
 
 * Request example: 
